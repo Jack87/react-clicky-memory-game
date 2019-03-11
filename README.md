@@ -19,4 +19,4 @@ Memory game to demonstrate building application with React and how the Dom manip
 Oppertunity to dive into using React for the first time. Trying to get an understanding of both stateless and stateful commponent structures and virtual DOM to actual DOM manipulation. 
 
 ### Author
-Akop Karapetyan 
+Akop Karapetyan  [https://github.com/Jack87](https://github.com/Jack87) 
