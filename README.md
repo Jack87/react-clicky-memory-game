@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Clicky Memory Game built with React
 
-Memory game to demonstrate building application with React and how the Dom manipulation happens.
+StarCraft 2 themed memory game to demonstrate building application with React and how the Dom manipulation happens.
 
 ### How to Play
 - Goal is to click on all of the images
