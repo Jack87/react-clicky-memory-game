@@ -1,0 +1,75 @@
+[
+    {
+    "id": 1,
+    "name": "Banshee",
+    "image": "./assets/images/Banshee_SC2_Head1.jpg",
+    "count": 0
+    },
+    {
+    "id": 2,
+    "name": "Drone",
+    "image": "./assets/images/Drone_SC2_Head1.jpg",
+    "count": 0
+    },
+    {
+    "id": 3,
+    "name": "HighTempla",
+    "image": "./assets/images/HighTemplar_SC2_Head1.jpg",
+    "count": 0
+    },
+    {
+    "id": 4,
+    "name": "Hydralisk",
+    "image": "./assets/images/Hydralisk_SC2_Head1.jpg",
+    "count": 0
+    },
+    {
+    "id": 5,
+    "name": "Marine",
+    "image": "./assets/images/Marine_SC2_Head2.jpg",
+    "count": 0
+    },
+    {
+    "id": 6,
+    "name": "Medic",
+    "image": "./assets/images/Medic_SC2_Head1.jpg",
+    "count": 0
+    },
+    {
+    "id": 7,
+    "name": "Phoenix",
+    "image": "./assets/images/Phoenix_SC2_Head1.jpg",
+    "count": 0
+    },
+    {
+    "id": 8,
+    "name": "Probe",
+    "image": "./assets/images/Probe_SC2_Head1.jpg",
+    "count": 0
+    },
+    {
+    "id": 9,
+    "name": "Queen",
+    "image": "./assets/images/Queen_SC2_Head2.jpg",
+    "count": 0
+    },
+    {
+    "id": 10,
+    "name": "SCV",
+    "image": "./assets/images/SCV_SC2_Head1.jpg",
+    "count": 0
+    },
+    {
+    "id": 11,
+    "name": "Zealot",
+    "image": "./assets/images/Zealot_SC2_Head1.jpg",
+    "count": 0
+    },
+    {
+    "id": 12,
+    "name": "Zergling",
+    "image": "./assets/images/Zergling_SC2_Head1.jpg",
+    "count": 0
+    }
+]
+    
